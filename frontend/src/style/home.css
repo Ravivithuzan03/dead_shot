@@ -1,0 +1,95 @@
+#cf6_image {
+  margin: auto;
+  width:100%;
+  height:auto;
+  min-height: 650px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* border-radius: 5px; */
+  transition: background-image 1s ease-in-out;
+  background-image:url("./images/p26.jpg");
+}
+
+ #cf6_image:hover {
+  background-image:url("./images/p22.jpg");
+} 
+/* .logo{
+  background-image:url("./images/logo.svg");
+} */
+.word{
+  text-align: center;
+  margin-top: 250px;
+  color: white;
+  font-size: 40px;
+  text-transform: uppercase;
+  font-family: 'Teko', 'Oswald', sans-serif;
+}
+.word1{
+  text-align: center;
+ 
+  color: #f2a900;
+  font-size: 50px;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: 'Teko', 'Oswald', sans-serif;
+}
+
+
+.home_back{
+  background-color: #1b1b1b !important;
+}
+
+
+#cf7_image {
+  margin: auto;
+  width:100%;
+  height:auto;
+  min-height: 500px;
+  /* margin-top: 20px; */
+  /* border-radius: 5px; */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image:url("./images/p37.jpg");
+ 
+}
+
+.note{
+  margin: 60px;
+  text-align: center;
+  color: white;
+  font-family: 'Teko', 'Oswald', sans-serif;
+}
+
+
+.card1{
+  padding: 0px;
+  margin-left: 60px;
+  color: white;
+  margin-right: 50px;
+  text-transform: uppercase !important;
+  background-color:#252729 !important;
+  font-family: 'Teko', 'Oswald', sans-serif;
+}
+
+.card2{
+  padding: 0 ;
+  margin-left: 60px;
+  color: white;
+  margin-right: 50px;
+  text-transform: uppercase !important;
+  background-color:#252729 !important;
+  font-family: 'Teko', 'Oswald', sans-serif;
+}
+
+.card_Button{
+  font-weight: bold;
+  font-family: 'Teko', 'Oswald', sans-serif;
+}
+
+
+
+
+
+
+

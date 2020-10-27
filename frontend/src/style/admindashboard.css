@@ -1,0 +1,35 @@
+.admindashboard{
+    background-color: #1b1b1b !important;
+}
+.admin{
+    /* padding-left: 400px;
+    padding-right: 400px; */
+    padding-top: 100px;
+   
+}
+
+.start{
+    color: #f2a900;
+    margin: 20px;
+    letter-spacing: 1px;
+    font-weight: bold !important;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Teko', 'Oswald', sans-serif;
+    /* background-color:#252729 !important; */
+}
+
+.map{
+    /* color: white !important; */
+    letter-spacing: 1px;
+    margin: 30px;
+    text-align: center;
+    text-transform: uppercase !important;
+    font-family: 'Teko', 'Oswald', sans-serif;
+    /* background-color:#252729 !important; */
+}
+
+.group{
+    
+    background-color:#252729 !important;
+}

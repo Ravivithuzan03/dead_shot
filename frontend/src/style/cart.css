@@ -1,0 +1,84 @@
+#cart_image{
+    margin:2px auto;
+    width:100%;
+    height:auto;
+    border-radius: 5px;
+    min-height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 0px; 
+    box-shadow: -2px 9px 28px 0px !important;
+    transition: background-image 1s ease-in-out;
+    background-image:url("./images/p45.jpg");
+      
+}
+
+#cart1_image{
+    margin:2px auto;
+    width:100%;
+    height:auto;
+    border-radius: 5px;
+    min-height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 0px; 
+    box-shadow: -2px 9px 28px 0px !important;
+    transition: background-image 1s ease-in-out;
+    background-image:url("./images/p46.jpg");
+      
+}
+
+#cart2_image{
+    margin:2px auto;
+    width:100%;
+    height:auto;
+    border-radius: 5px;
+    min-height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 0px; 
+    box-shadow: -2px 9px 28px 0px !important;
+    transition: background-image 1s ease-in-out;
+    background-image:url("./images/p47.jpg");
+      
+}
+
+/* .payment{
+    padding-left: 290px;
+    padding-right: 360px;
+    
+} */
+
+.cart {
+    background-color: #1b1b1b !important;
+}
+
+.total{
+    margin: 30px;
+    text-align: center;
+    color: #f2a900;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: 'Teko', 'Oswald', sans-serif;
+}
+
+.pay{
+    margin: 70px;
+    color: #f2a900;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Teko', 'Oswald', sans-serif;
+}
+
+.payment_button{
+    margin-top: 20px;
+    margin-bottom: 50px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Teko', 'Oswald', sans-serif;
+}

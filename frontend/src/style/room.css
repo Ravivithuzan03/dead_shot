@@ -1,0 +1,114 @@
+ 
+.card-p{
+    font-weight: bold;
+    color: white;
+    margin: 35px;
+    letter-spacing: 0px;
+    text-transform: uppercase;
+    font-family: Rajdhani,sans-serif;
+    
+}
+#room_image{
+   
+        margin:2px auto;
+        width:100%;
+        height:auto;
+        border-radius: 5px;
+        min-height: 400px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+         border-radius: 0px; 
+         box-shadow: -2px 9px 28px 0px !important;
+         transition: background-image 1s ease-in-out;
+        background-image:url("./images/p29.jpg");
+      
+}
+/* 
+#room_image:hover {
+    background-image:url("./images/p30.jpg");
+  } 
+     */
+
+     #room1_image{
+   
+        margin:2px auto;
+        width:100%;
+        height:auto;
+        border-radius: 5px;
+        min-height: 400px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+         border-radius: 0px; 
+         box-shadow: -2px 9px 28px 0px !important;
+         transition: background-image 1s ease-in-out;
+        background-image:url("./images/p30.jpg");
+      
+}
+#room2_image{
+   
+    margin:2px auto;
+    width:100%;
+    height:auto;
+    border-radius: 5px;
+    min-height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+     border-radius: 0px; 
+     box-shadow: -2px 9px 28px 0px !important;
+     transition: background-image 1s ease-in-out;
+    background-image:url("./images/p36.jpg");
+  
+}
+#room3_image{
+   
+    margin:2px auto;
+    width:100%;
+    height:auto;
+    border-radius: 5px;
+    min-height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+     border-radius: 0px; 
+     box-shadow: -2px 9px 28px 0px !important;
+     transition: background-image 1s ease-in-out;
+    background-image:url("./images/p39.jpg");
+  
+}
+#room4_image{
+   
+    margin:2px auto;
+    width:100%;
+    height:auto;
+    border-radius: 5px;
+    min-height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+     border-radius: 0px; 
+     box-shadow: -2px 9px 28px 0px !important;
+     transition: background-image 1s ease-in-out;
+    background-image:url("./images/p40.jpg");
+  
+}
+#room5_image{
+   
+    margin:2px auto;
+    width:100%;
+    height:auto;
+    border-radius: 5px;
+    min-height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+     border-radius: 0px; 
+     box-shadow: -2px 9px 28px 0px !important;
+     transition: background-image 1s ease-in-out;
+    background-image:url("./images/p41.jpg");
+  
+}
+
+

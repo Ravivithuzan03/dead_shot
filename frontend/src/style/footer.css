@@ -1,0 +1,60 @@
+.footer{
+    /* background-color:#252729 !important; */
+    background-color: rgb(19, 18, 18);
+    
+}
+
+.Copyright{
+    color: white;
+    background-color: rgb(10, 10, 10);
+}
+
+.footer_logo{
+    margin: 10px;
+    height: 80px;
+    width: 180px;
+}
+
+.footer_p{
+    color: white;
+    font-size: 13px;
+    margin-left: 10px;
+    margin-top: 0px;
+    text-transform: uppercase;
+    font-family: Rajdhani,sans-serif;
+    
+}
+.footer_p1{
+    color: white;
+    font-size: 13px;
+    margin-left: 10px;
+    margin-top: 5px;
+    text-transform: uppercase;
+    font-family: Rajdhani,sans-serif;
+    
+}
+
+/* .footer_p2{
+    color: white;
+    font-size: 13px;
+    margin-left: 10px;
+    margin-top: 5px;
+    text-transform: uppercase;
+    font-family: Rajdhani,sans-serif;
+    
+} */
+
+.hr{
+    border-top: 1px solid rgb(235, 226, 226);
+}
+
+
+.footer_content {
+    color: white;
+    font-size: 17px;
+    margin-left: 420px;
+    margin-top: 10px;
+    /* text-transform: uppercase; */
+    font-family: Rajdhani,sans-serif;
+    
+}
