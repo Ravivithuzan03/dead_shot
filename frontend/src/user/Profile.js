@@ -75,7 +75,7 @@ const  Profile= ({match}) => {
 
      const profileUpdate = (firstname,lastname,pubgname, email,password) => (
        <div className="update_back">
-            <img className="profile_logo" src="https://svgshare.com/i/QXh.svg"/>
+            <img className="profile_logo" src="https://gist.githubusercontent.com/prashankhan/9b64b2013a7344419e317df89c0110e5/raw/fe62ef8f214ae51aa218f84572d7012f6fc2d17b/vithusan.svg"/>
           <form >
                <div className="form-group">
                     <label className="text-muted">First Name</label>

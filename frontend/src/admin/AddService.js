@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import Layout from '../core/Layout';
 import Menu from '../core/Menu';
 import { isAuthenticated } from '../auth/index';
-import '../style/addrooms.css';
+import '../style/addroom.css';
 // eslint-disable-next-line
 import { Link } from 'react-router-dom';
 import { createService, getCategories } from './apiAdmin';

@@ -16,7 +16,7 @@ const isActive = (history, path) => {
 // const {user: _id} = isAuthenticated()
 const Menu = ({ history }) => (
     <nav class=" navbar navbar-expand-lg navbar-light bg-light n1">
-   <img className="logo" style={{width:"130px"}} src="https://svgshare.com/i/QXh.svg"/>
+   <img className="logo" style={{width:"130px"}} src="https://gist.githubusercontent.com/prashankhan/9b64b2013a7344419e317df89c0110e5/raw/fe62ef8f214ae51aa218f84572d7012f6fc2d17b/vithusan.svg"/>
   <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span className=" navbar-toggler-icon" ></span>
   </button>
